@@ -2,12 +2,12 @@
 @import "./intro.css";
 @import "./exp.css";
 @import "./form.css";
+@import "./footer.css";
 
 body {
   font-family: Arial, sans-serif;
   margin: 0px;
   color: #141414;
-  margin-bottom: 1000px;
 }
 h1,
 h2,
